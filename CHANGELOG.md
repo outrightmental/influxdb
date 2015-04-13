@@ -4,6 +4,7 @@
 
 ### Bugfixes
 - [#2255](https://github.com/influxdb/influxdb/pull/2255): Fix panic when changing default retention policy.
+- [#2265](https://github.com/influxdb/influxdb/pull/2265): Fix auth for CLI.
 
 ## v0.9.0-rc23 [2015-04-11]
 
